@@ -8,32 +8,52 @@
 - 💬 Ask me about **Python, C#, PHP, SQL, Linux & Web Security**
 - 📫 How to reach me **kmelisa194@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+###
+
+<div align="left">
   <a href="https://linkedin.com/in/melissakaya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  &nbsp;
   <a href="mailto:kmelisa194@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-</p>
+</div>
 
-<h3 align="left">Languages & Core Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,py,cs,mysql,linux,tensorflow" alt="Skills" />
-</p>
+###
 
-<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+</div>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayamel&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kayamel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamel&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-  <br/><br/>
+###
 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayamel/kayamel/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayamel/kayamel/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kayamel/kayamel/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kayamel.kayamel&" alt="visitor badge" />
 </div>
