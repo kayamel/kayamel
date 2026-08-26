@@ -27,10 +27,12 @@
 <br/>
 
 <div align="center">
+  <!-- Streak Kartı -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayamel&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
 
   <br/><br/>
 
+  <!-- Snake Animasyonu -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayamel/kayamel/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayamel/kayamel/output/github-contribution-grid-snake.svg">
